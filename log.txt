@@ -1,0 +1,9 @@
+[LOG]: "U" 
+[LOG]: "D" 
+[LOG]: "L" 
+[LOG]: "Current position is :",  {
+  "x": -4,
+  "y": 1,
+  "z": 0
+} 
+[LOG]: "luggage was droped"
